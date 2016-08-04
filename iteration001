@@ -1,0 +1,33 @@
+/*
+Theme Name: Corsa
+Description: Child theme for Corsa theme
+Template: Corsa
+*/
+
+/* write custom css */
+.l-header {
+    color: #DFF5F0;
+}
+.w-logo-link{
+    color: #DFF5F0;
+}
+nav a:hover{
+	color: #DFF5F0 !important;
+}
+
+.home-heading-line{
+	color: #2F514A;
+}
+
+#portfolio{
+background-color: #7DD8C7 !important;
+}
+
+#portfolio h2{
+color:#710304 !important}
+
+.with_parallax{
+    background-image: url("53458257.png.jpg") !important; 
+    background-repeat: repeat !important;
+    background-attachment: fixed !important;
+}
